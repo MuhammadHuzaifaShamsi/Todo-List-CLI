@@ -2,7 +2,7 @@
   "dependencies": {
     "inquirer": "^9.2.15"
   },
-  "name": "mh-todo-cli",
+  "name": "mh-todo-list-cli",
   "version": "1.0.0",
   "main": "app.js",
   "type": "module",
